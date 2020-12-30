@@ -1,2 +1,2 @@
 # test-repo
-learning in github
+learning git!
