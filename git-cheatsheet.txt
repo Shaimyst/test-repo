@@ -1,0 +1,42 @@
+VIEW COMMANDS
+//these don't make changes
+
+git status
+    shows you the current status of the repo
+
+git log
+    shows you a history of git commits
+
+git fetch
+    updates local git with remote changes
+
+git diff
+    shows you what has been changed in files before committing those changes
+
+CHANGE AND PUSH COMMANDS
+//these make changes
+
+git add .
+    prepare changes to the repo for being committed
+
+git commit -m <example message>
+    makes a git commit with the changes added by a git add
+    each commit has a message to it < >
+
+git push origin <branch name>
+    updates the remote with the commits on the specified local branch
+
+git pull origin <branch name>
+    updates the local branch with the commits on the specified remote branch
+
+BRANCHES
+//specific to branches 
+
+git branch 
+    lists the local branches 
+
+git checkout <branch name>
+    changes to specified branch    
+
+git checkout -b <new branch name>
+    creates a new branch and changes to it at the same time
