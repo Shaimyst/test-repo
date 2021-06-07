@@ -1,6 +1,7 @@
 #coding: utf-8
 from selenium.webdriver.common.by import By
 from selenium import webdriver
+from webdriver_manager.chrome import ChromeDriverManager
 import unittest
 import time
 
@@ -34,7 +35,7 @@ class WebKitFeatureStatusTest(unittest.TestCase):
             
         time.sleep(1)
         filters = self.driver.execute_script("return document.querySelectorAll('.filter-toggle')")
-        self.assertTrue(len(filters) is 7)
+        self.assertTrue(len(filters) == 7)
         
         # Make sure every filter is turned off.
         for checked_filter in filter(lambda f: f.is_selected(), filters):

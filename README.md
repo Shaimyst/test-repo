@@ -1,2 +1,2 @@
 # test-repo
-learning git!
+this is my play area for creating automated tests using Selenium.
