@@ -1,0 +1,9 @@
+TOOLBELT
+
+This is where I can mark down different items I've researched.
+
+Types of QA testing:
+Unit testing
+Component testing
+Regression testing
+Smoke testing
