@@ -7,3 +7,23 @@ Unit testing
 Component testing
 Regression testing
 Smoke testing
+Integration testing
+Interface testing
+Sanity testing
+System testing
+UAT User acceptance testing
+Data conversion testing
+Mobile testing
+
+Performance testing
+ - load testing
+ - stress testing
+ - spike testing
+
+
+Types of testing I have work experience with:
+
+Smoke testing
+Integration testing, includes interface testing
+Data conversion testing - moving data from Microsoft Access to SalesForce
+Mobile testing - performance of websites on mobile devices
