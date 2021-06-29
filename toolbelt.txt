@@ -27,3 +27,10 @@ Smoke testing
 Integration testing, includes interface testing
 Data conversion testing - moving data from Microsoft Access to SalesForce
 Mobile testing - performance of websites on mobile devices
+
+
+Coursework: # courses I've watched and worked through
+    X The Complete Quality Assurance Course - Learn QA from Scratch - skillshare 
+    X Coding 101: Python for Beginners - skillshare
+    X Web Automation with Python Selenium - skillshare
+    - (in progress) Postman Beginner's Course - API Testing - youtube
