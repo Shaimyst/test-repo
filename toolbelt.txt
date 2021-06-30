@@ -34,3 +34,9 @@ Coursework: # courses I've watched and worked through
     X Coding 101: Python for Beginners - skillshare
     X Web Automation with Python Selenium - skillshare
     - (in progress) Postman Beginner's Course - API Testing - youtube
+
+Postman: completed tasks
+ - set up new project
+ - GET requests
+ - set collections, or global variables
+ - query parameters
