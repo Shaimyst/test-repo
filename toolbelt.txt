@@ -40,3 +40,4 @@ Postman: completed tasks
     - GET requests
     - set collections, or global variables
     - query parameters
+    - successfully connected the collaborative app to postman and performed GET requests to users and task pages
