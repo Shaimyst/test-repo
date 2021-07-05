@@ -3,17 +3,17 @@ TOOLBELT
 This is where I can mark down different items I've researched.
 
 Types of QA testing:
-Unit testing
-Component testing
-Regression testing
-Smoke testing
-Integration testing
-Interface testing
-Sanity testing
-System testing
-UAT User acceptance testing
-Data conversion testing
-Mobile testing
+    Unit testing
+    Component testing
+    Regression testing
+    Smoke testing
+    Integration testing
+    Interface testing
+    Sanity testing
+    System testing
+    UAT User acceptance testing
+    Data conversion testing
+    Mobile testing
 
 Performance testing
  - load testing
@@ -36,7 +36,7 @@ Coursework: # courses I've watched and worked through
     - (in progress) Postman Beginner's Course - API Testing - youtube
 
 Postman: completed tasks
- - set up new project
- - GET requests
- - set collections, or global variables
- - query parameters
+    - set up new project
+    - GET requests
+    - set collections, or global variables
+    - query parameters
