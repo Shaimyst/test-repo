@@ -20,6 +20,10 @@ Performance testing
  - stress testing
  - spike testing
 
+Schema testing:
+- JSON schema validation testing
+- validating JSON schema in Postman
+
 
 Types of testing I have work experience with:
 
@@ -41,3 +45,4 @@ Postman: completed tasks
     - set collections, or global variables
     - query parameters
     - successfully connected the collaborative app to postman and performed GET requests to users and task pages
+    - saved test run in collaborative app selentium test folder
