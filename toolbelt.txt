@@ -32,6 +32,15 @@ Integration testing, includes interface testing
 Data conversion testing - moving data from Microsoft Access to SalesForce
 Mobile testing - performance of websites on mobile devices
 
+Backend Testing:
+    - schema
+    - database tables
+    - columns
+    - keys and indexes
+    - stored procedures
+    - triggers
+    - database server validations
+    - validating data duplication
 
 Coursework: # courses I've watched and worked through
     X The Complete Quality Assurance Course - Learn QA from Scratch - skillshare 
@@ -46,3 +55,10 @@ Postman: completed tasks
     - query parameters
     - successfully connected the collaborative app to postman and performed GET requests to users and task pages
     - saved test run in collaborative app selentium test folder
+
+Definitions:
+    - bug leakage
+    - bug release
+
+Interview questions:
+    - what's the difference between a build and release?
