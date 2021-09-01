@@ -1,0 +1,14 @@
+Test Planning
+
+How to create a test plan:
+    1. analyze the product
+    2. design the test strategy
+    3. define the test objectives
+    4. define test criteria
+    5. resource planning
+    6. plan test environment
+    7. schedule and estimation
+    8. determine test deliverables
+
+Importance/benefits of test planning:
+    
