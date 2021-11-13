@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 selenium = "*"
+pytest = "*"
+pytest-sugar = "*"
+webdriver-manager = "*"
 
 [dev-packages]
 
